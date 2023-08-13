@@ -1,7 +1,7 @@
-NAME,DATASET-NAME
+NAME,DATASET-URL
 csv1,value1
-csv2,https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv
+csv2,https://raw.githubusercontent.com/DATAisENOUGH/datasets_fetcher/main/countries.csv
 csv3,value3
 csv4,value4
 csv5,value5
-csv6,https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv
+csv6,https://raw.githubusercontent.com/DATAisENOUGH/datasets_fetcher/main/countries.csv
